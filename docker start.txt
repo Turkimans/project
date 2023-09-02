@@ -1,0 +1,4 @@
+ docker start -ai tuwaiq-centos 
+
+The key fingerprint is:
+SHA256:3XbcRoI/k2tgtihr2fRWxcd8TI970QOqPw65BhmG12E Turki.8m@gmail.com
